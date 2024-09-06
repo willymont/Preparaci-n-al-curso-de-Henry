@@ -1,2 +1,2 @@
-# Preparaci-n-al-curso-de-Henry
-preparatorio al curso de programación web full stack.
+William Antonio Montejo
+Este proyecto es una prueba para aprender a crear un repositorio en la nube.
